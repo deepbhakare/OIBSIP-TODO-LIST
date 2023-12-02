@@ -30,6 +30,5 @@ https://deepbhakare.github.io/OIBSIP-TODO-LIST/
 
 
 
----
 
-# Happy task managing! 🎉
+# Happy task managing! :white_check_mark:
