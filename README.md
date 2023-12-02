@@ -2,7 +2,7 @@
 
 # Todo-List Web App 📝
 
-![alt text](https://github.com/deepbhakare/OIBSIP-TODO-LIST/blob/main/images/preview/todo_list.png?raw=true)
+![alt text](https://github.com/deepbhakare/OIBSIP-TODO-LIST/blob/main/images/preview/todo.png?raw=true)
 
 ## Preview 🔥
 
